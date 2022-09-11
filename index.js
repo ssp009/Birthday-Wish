@@ -17,7 +17,7 @@ function myFunction() {
    
    
    if(day.getDay()== today.getDay() && day.getMonth() == today.getMonth() ){
-      return alert("Happy Birthday! " +  names + " Hope almighty Allah gives you all the happines and prosperity in life" )
+      return alert("Happy Birthday " +  names + ". Hope almighty Allah gives you all the happiness and prosperity in life" )
    } else {
       return alert("Have to a good day!")
    }  
